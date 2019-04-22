@@ -1,0 +1,16 @@
+ body{
+  background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+} 
+ *{
+box-sizing: border-box;
+}
+
+.im{
+    width: 400px;
+    height: 315px;
+    margin: 100px auto;
+    background-color: #d2dae2;
+    border-radius: 10px;
+    position: relative;
+    background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+}
